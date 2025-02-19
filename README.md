@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+## Starting
+Run:
+- npm install
+- npm run dev
+
+App should get executed
