@@ -1,0 +1,9 @@
+#root {
+  min-width: 100%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  :root {
+    transition: all 3s linear !important;
+  }
+}
